@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">STAAR Token</h1>
 
-<!--
-**STAAR-Token/STAAR-Token** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Smart Contract 🚀</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">https://staar.world</p>
+<hr>
+<p align="center">
+  <a href="about">About</a>
+  •
+  <a href="commands">Technical Analysis</a>
+  •
+  <a href="license">License</a>
+  •
+  <a href="contributors">Contributors</a>
+</p>
